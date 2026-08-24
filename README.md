@@ -128,7 +128,7 @@ pkg install git -y
 
 Clone repository:
 ```bash
-git clone https://github.com/wedos9geblek970-ai/otpv3.git
+git clone https://github.com/wedos9geblek970-ai/otp
 ```
 
 Masuk ke folder:
